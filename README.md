@@ -3,7 +3,6 @@ Notes taking app made with MongoDb , Express , React , Node (JWT authentication 
 
 Watch the video ;-
 
-https://user-images.githubusercontent.com/76117268/230740794-74459910-6952-4275-8626-f6592e41aac0.mp4
-
+https://user-images.githubusercontent.com/76117268/231447776-e8a061b7-0106-43df-ae5e-2d33f19567fa.mp4
 
 
